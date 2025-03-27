@@ -2,6 +2,9 @@
 
 A machine learning-based web application that predicts NBA player statistics for upcoming games. The application uses historical game data and various features to forecast player performance metrics including points, rebounds, assists, blocks, and turnovers.
 
+## Public URL
+- OskarIwaniuk.pythonanywhere.com
+
 ## Features
 
 - **Data Collection**: Automatically collects and processes NBA player statistics from ESPN
