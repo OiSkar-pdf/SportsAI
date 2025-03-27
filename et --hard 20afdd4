@@ -1,0 +1,11 @@
+[33m943bcd5[m[33m ([m[1;36mHEAD[m[33m)[m HEAD@{0}: reset: moving to HEAD~6
+[33m2f85072[m HEAD@{1}: commit: version 7
+[33m20afdd4[m HEAD@{2}: checkout: moving from main to 20afdd45bb2d4c777c6502107404b7eb55d1a81c
+[33mb36ae43[m[33m ([m[1;32mmain[m[33m)[m HEAD@{3}: commit: version 7
+[33m08afcf7[m HEAD@{4}: commit: Initial commit
+[33m20afdd4[m HEAD@{5}: commit: version 6 (automated models for each player + front end)
+[33mc82aa82[m HEAD@{6}: commit: Version 5 (added model)
+[33me4003c1[m HEAD@{7}: commit: version 4
+[33m7a7a338[m HEAD@{8}: commit: version 3
+[33m93a9231[m HEAD@{9}: commit: version 2 (new test.py)
+[33m943bcd5[m[33m ([m[1;36mHEAD[m[33m)[m HEAD@{10}: commit (initial): version 1
