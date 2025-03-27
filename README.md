@@ -92,13 +92,7 @@ The models use Random Forest Regression to predict player statistics based on hi
 
 ## Deployment
 
-The application is deployed on PythonAnywhere. To deploy your own instance:
-
-1. Create a PythonAnywhere account
-2. Upload the project files
-3. Configure the WSGI file to point to app.py
-4. Set up the required Python packages
-5. Reload the web application
+The application is deployed on PythonAnywhere
 
 ## Contributing
 
